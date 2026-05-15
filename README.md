@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 I’m building and testing systems, tools, and ventures around the problems organisations and societies run on.
 
 ## what i'm working on
-- 🤖 I'm currently working on RAG systems, MCP servers, and automation
-- 🧠 I'm building systems that change how people understand and use what's around them
-- 🌱 I'm currently exploring applied AI and agentic systems
-- 🫱🏿‍🫲🏾 I’m looking to collaborate on complex problems in emerging markets, infrastructure, and the systems people depend on
-- 💬 Ask me about enterprise systems, MCP, applied AI, and the infrastructure organisations run on
+- 🤖 RAG systems, MCP servers, and automation
+- 🧠 systems that change how people understand and use what's around them
+- 🌱 exploring applied AI and agentic systems
+- 🫱🏿‍🫲🏾 looking to collaborate on complex problems in emerging markets, infrastructure, and the systems people depend on
+- 💬 ask me about enterprise systems, MCP, and applied AI
 
 ## beliefs
 - faith-led
