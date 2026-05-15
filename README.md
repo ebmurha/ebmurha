@@ -15,21 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m building and testing systems, tools, and ventures around the problems organisations and societies run on.
+I’m building and testing systems, tools, and ventures around the problems organisations and societies run on — from operational infrastructure to applied AI.
 
 ## what i'm working on
 - 🤖 RAG systems, MCP servers, and automation
 - 🧠 systems that change how people understand and use what's around them
 - 🌱 exploring applied AI and agentic systems
-- 🫱🏿‍🫲🏾 looking to collaborate on complex problems in emerging markets, infrastructure, and the systems people depend on
-- 💬 ask me about enterprise systems, MCP, and applied AI
+- 🧩 systems thinking for wicked problems
+- 🫱🏿‍🫲🏾 looking to collaborate on projects in emerging markets, infrastructure, and operational systems
+- 💬 ask me about enterprise systems, MCP, applied AI, and operational design
 
 ## beliefs
 - faith-led
 - build useful things
+- constraints are design inputs
 - simple is hard enough
-- audit trails beat “trust me”
 - small, tested, reversible
+- audit trails beat “trust me”
 - privacy is a feature
 - consistency compounds
 - experiment, learn, iterate
