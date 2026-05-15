@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I like building useful things with technology.
+I’m building and testing systems, tools, and ventures around the problems organisations and societies run on.
 
-## what I'm building
-- 🧠 systems that change how people understand and use what's around them
-- ⚙️ the connective tissue between technology and the lives it should serve
-- 🏛 foundational infrastructure on top of which organisations run
-- 🤖 AI, agents, retrieval, automation
-
+## what i'm working on
+- 🤖 I'm currently working on RAG systems, MCP servers, and automation
+- 🧠 I'm building systems that change how people understand and use what's around them
+- 🌱 I'm currently exploring applied AI and agentic systems
+- 🫱🏿‍🫲🏾 I’m looking to collaborate on complex problems in emerging markets, infrastructure, and the systems people depend on
+- 💬 Ask me about enterprise systems, MCP, applied AI, and the infrastructure organisations run on
 
 ## beliefs
 - faith-led
@@ -31,13 +31,13 @@ I like building useful things with technology.
 - audit trails beat “trust me”
 - small, tested, reversible
 - privacy is a feature
-- ideas < discipline and execution
-- experiment -> fail -> learn -> repeat
+- consistency compounds
+- experiment, learn, iterate
 
 ## a bit about me
 - Congolese 🇨🇩. Based in Nairobi.
-- I run. I hike. I aspire to become a farmer.
-- For more, cfr elisebaraka.com.
+- I run. I hike. One day, I'd like to farm.
+- For more: elisebaraka.com
 
 ## connect
 - LinkedIn: ebmurha
