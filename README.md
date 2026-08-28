@@ -23,13 +23,13 @@ I’m building and testing systems, tools, and ventures around the problems orga
 - 🌱 exploring applied AI and agentic systems
 - 🧩 systems thinking for wicked problems
 - 🫱🏿‍🫲🏾 looking to collaborate on projects in emerging markets, infrastructure, and operational systems
-- 💬 ask me about enterprise systems, MCP, applied AI, and operational design
+- 💬 ask me about enterprise systems, applied AI, and operational design
 
 ## beliefs
 - faith-led
 - build useful things
 - constraints are design inputs
-- simple is hard enough
+- keep it simple
 - small, tested, reversible
 - audit trails beat “trust me”
 - privacy is a feature
@@ -37,7 +37,7 @@ I’m building and testing systems, tools, and ventures around the problems orga
 - experiment, learn, iterate
 
 ## a bit about me
-- Congolese 🇨🇩. Based in Nairobi.
+- Congolese 🇨🇩.
 - I run. I hike. One day, I'd like to farm.
 - For more: elisebaraka.com
 
